@@ -113,7 +113,7 @@ public class Main {
 	}
 	
 	static void victory() {
-		System.out.println("*** GAME OVER ***");
+		System.out.println("*** GAME IS OVER ***");
 		System.out.print("...");
 		number = 1;
 		
